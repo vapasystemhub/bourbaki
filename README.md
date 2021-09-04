@@ -5,3 +5,5 @@ Junio 2021
 2. Elija uno de los algoritmos vistos durante el módulo (percepción simple, árboles de
 decisión, regresión logística) para construir un clasificador.
 3. Justifique la elección del algoritmo y reporte los resultados
+ - Para la justificación del algoritmo ver, [Examen_EDA_Justificacion_Modelo](S1_Examen_EDA_Justificacion_Modelo.ipynb)
+ - La implementación ver, [S1_Examen_ImplementacionLR](S1_Examen_ImplementacionLR.ipynb)
